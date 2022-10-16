@@ -1,2 +1,2 @@
-# FirstCV
-This is the first webpage for my CV
+# CodeLancs
+Learning the Basics
